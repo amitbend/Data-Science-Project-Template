@@ -1,8 +1,13 @@
 # Data-Science-Project-Template
 
+<p align="center">
+	<a href="readme.md">What is this?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="more_resources.md">More resources</a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Process
-(cycle)["https://miro.medium.com/max/2400/1*AnXmg5iOuAfi0fmCL4pxFg.png"]
+<img src="https://miro.medium.com/max/2400/1*AnXmg5iOuAfi0fmCL4pxFg.png" width="600px" />
 
 
 ## Templates
