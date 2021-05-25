@@ -2,7 +2,7 @@
 
 
 ## Process
-[cycle]("https://miro.medium.com/max/2400/1*AnXmg5iOuAfi0fmCL4pxFg.png")
+(cycle)["https://miro.medium.com/max/2400/1*AnXmg5iOuAfi0fmCL4pxFg.png"]
 
 
 ## Templates
