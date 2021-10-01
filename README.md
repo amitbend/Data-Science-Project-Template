@@ -11,7 +11,7 @@
 
 
 ## Templates
-* Project kickoff -> Project definition (5Q)
+* [Project kickoff -> Project definition (5Q)](https://docs.google.com/presentation/d/1RT_AAOEVc04E3Bksz9UaGE-VgE79Xg0kHhTOymJ6omU/edit?usp=sharing)
 * Project scoping (Product)
 * Research cycle -> Research status
 * Research cycle -> Research summary
