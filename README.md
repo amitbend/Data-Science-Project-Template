@@ -12,7 +12,8 @@
 
 ## Templates
 * Project kickoff -> Project definition (5Q)
-* Project scoping
+* Project scoping (Product)
+* Research cycle -> Research status
 * Research cycle -> Research summary
 * Productization -> solution release
 * Online testing (Measuring) -> Experiment summary
