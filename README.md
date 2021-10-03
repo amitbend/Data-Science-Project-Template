@@ -15,7 +15,7 @@
 * Project scoping (Product)
 * Research cycle -> Research status
 * [Research cycle -> Research summary](https://docs.google.com/presentation/d/1c5TTGYL-jesf71RxpZIlb45KQbeiDlcEnZNwY8Y5cBc/edit?usp=sharing)
-* [Model design release](https://docs.google.com/presentation/d/1Q0k-uk4qpivCK3FBkWS1vg8621GlZAOEclK7Yq2al7E/edit?usp=sharing)
+* [Model design review](https://docs.google.com/presentation/d/1Q0k-uk4qpivCK3FBkWS1vg8621GlZAOEclK7Yq2al7E/edit?usp=sharing)
 * [Experiment Summary](https://docs.google.com/presentation/d/1B7IcG8bo4L2J_T_o8l_Ux-5TDELT41lP97d3mvLwrvo/edit?usp=sharing)
 * Productization -> solution release
 * Online testing (Measuring) -> Experiment summary
