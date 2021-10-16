@@ -15,6 +15,9 @@ Our goal is to provide data science templates for the community with an emphasis
 
 All of our templates are in Google slides format - so you can clone them and adjust to your organization.
 
+
+See how our templates are calibrated to Uber's, Microsoft's and other [lifecycle diagrams](lifecycles.md)
+
 ## Templates
 * [Project kickoff -> Project definition (5Q)](https://docs.google.com/presentation/d/1RT_AAOEVc04E3Bksz9UaGE-VgE79Xg0kHhTOymJ6omU/edit?usp=sharing)
 * [Project scoping (Product)](https://docs.google.com/presentation/d/1dWIkpVIluAYeoOWww6B38pwHza9IpiTIFFHnjNkiFms/edit?usp=sharing)
