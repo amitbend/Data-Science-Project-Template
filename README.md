@@ -19,7 +19,6 @@ All of our templates are in Google slides format - so you can clone them and adj
 
 ## Templates
 * [Project kickoff -> Project definition (6Q)](https://docs.google.com/presentation/d/1RT_AAOEVc04E3Bksz9UaGE-VgE79Xg0kHhTOymJ6omU/edit?usp=sharing)
-* [Project scoping (Product)](https://docs.google.com/presentation/d/1dWIkpVIluAYeoOWww6B38pwHza9IpiTIFFHnjNkiFms/edit?usp=sharing)
 * [Research cycle -> Research status](https://docs.google.com/presentation/d/13sh0ZOLDnJF0mKYWg1ZxaRfO6c-q6IlNhn2zwuksKGg/edit?usp=sharing)
 * [Research cycle -> Perliminary Research summary](https://docs.google.com/presentation/d/1c5TTGYL-jesf71RxpZIlb45KQbeiDlcEnZNwY8Y5cBc/edit?usp=sharing)
 * [Model design review](https://docs.google.com/presentation/d/1Q0k-uk4qpivCK3FBkWS1vg8621GlZAOEclK7Yq2al7E/edit?usp=sharing)
